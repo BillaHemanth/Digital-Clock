@@ -23,3 +23,8 @@ A simple and responsive **Digital Clock** built using HTML, CSS, and JavaScript.
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/digital-clock.git
+
+
+
+## 🚀 Live Demo
+Check out the live version here: [Digital Clock](https://billahemanth.github.io/digital-clock/)
