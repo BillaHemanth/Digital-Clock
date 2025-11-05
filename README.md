@@ -27,4 +27,4 @@ A simple and responsive **Digital Clock** built using HTML, CSS, and JavaScript.
 
 
 ## 🚀 Live Demo
-Check out the live version here: [Digital Clock](https://billahemanth.github.io/digital-clock/)
+Check out the live version here: [Digital Clock](https://billahemanth.github.io/Digital-Clock/)
